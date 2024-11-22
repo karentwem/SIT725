@@ -1,0 +1,22 @@
+{
+  "name": "sit725",
+  "version": "1.0.0",
+  "description": "sit725",
+  "main": "Week 03/server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karentwem/SIT725.git"
+  },
+  "author": "KT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karentwem/SIT725/issues"
+  },
+  "homepage": "https://github.com/karentwem/SIT725/#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
